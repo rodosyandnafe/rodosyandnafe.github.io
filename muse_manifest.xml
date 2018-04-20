@@ -1,0 +1,158 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rodosyandnafe.github.io" resolutions="1x" timestamp="1524235869409">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_story-master.css" crc="311783383" ref="my-sister:example:best-friends:hike:campfire"/>
+    <file name="master_home-master.css" crc="3815216849" ref="index"/>
+    <file name="my-sister.css" crc="331587333" ref="my-sister"/>
+    <file name="example.css" crc="107806101" ref="example"/>
+    <file name="best-friends.css" crc="398279534" ref="best-friends"/>
+    <file name="hike.css" crc="495932552" ref="hike"/>
+    <file name="index.css" crc="402609975" ref="index"/>
+    <file name="campfire.css" crc="367969234" ref="campfire"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:tablet>index:tablet>hike:tablet>my-sister:tablet>best-friends:tablet>example:tablet>campfire:index:hike:my-sister:best-friends:example:campfire"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:tablet>index:tablet>hike:tablet>my-sister:tablet>best-friends:tablet>example:tablet>campfire:index:hike:my-sister:best-friends:example:campfire"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:tablet>index:tablet>hike:tablet>my-sister:tablet>best-friends:tablet>example:tablet>campfire:index:hike:my-sister:best-friends:example:campfire"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:tablet>index:tablet>hike:tablet>my-sister:tablet>best-friends:tablet>example:tablet>campfire:index:hike:my-sister:best-friends:example:campfire"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:tablet>index:index:hike:my-sister:best-friends:example:campfire"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:tablet>index:tablet>hike:tablet>my-sister:tablet>best-friends:tablet>example:tablet>campfire:index:hike:my-sister:best-friends:example:campfire"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:tablet>index:tablet>hike:tablet>my-sister:tablet>best-friends:tablet>example:tablet>campfire:index:hike:my-sister:best-friends:example:campfire"/>
+  </folder>
+  <folder name="images">
+    <file name="r-n logo2.png" crc="400756051" seo="true" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:index:hike:my-sister:best-friends:example:campfire">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="best-friends" alt=""/>
+      <caption webpage="best-friends" alt=""/>
+      <caption webpage="hike" alt=""/>
+      <caption webpage="hike" alt=""/>
+      <caption webpage="my-sister" alt=""/>
+      <caption webpage="my-sister" alt=""/>
+      <caption webpage="campfire" alt=""/>
+      <caption webpage="campfire" alt=""/>
+      <caption webpage="example" alt=""/>
+      <caption webpage="example" alt=""/>
+    </file>
+    <file name="hike-mobile-version.jpg" crc="134831446" ref="phone>index:phone>hike:tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tree-winter-black-and-white-girl-photography-sunlight-73811-pxherecom(computer version).jpg" crc="3978995179" ref="phone>index:phone>my-sister:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="my-sister" alt=""/>
+    </file>
+    <file name="annie-spratt-282808-unsplash.jpg" crc="4137175492" ref="phone>index:phone>best-friends:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="best-friends" alt=""/>
+    </file>
+    <file name="water-nature-grass-winter-light-black-and-white-832971-pxherecom.jpg" crc="8135632" ref="phone>index:phone>example:tablet>index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="example" alt=""/>
+    </file>
+    <file name="campfire-u1932-fr.jpg" crc="4230939164" ref="phone>index:phone>campfire"/>
+    <file name="facebook icon.png" crc="410177151" seo="true" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:index:hike:my-sister:best-friends:example:campfire">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="best-friends" alt=""/>
+      <caption webpage="best-friends" alt=""/>
+      <caption webpage="hike" alt=""/>
+      <caption webpage="hike" alt=""/>
+      <caption webpage="my-sister" alt=""/>
+      <caption webpage="my-sister" alt=""/>
+      <caption webpage="campfire" alt=""/>
+      <caption webpage="campfire" alt=""/>
+      <caption webpage="example" alt=""/>
+      <caption webpage="example" alt=""/>
+    </file>
+    <file name="instagram logo.png" crc="4180747738" seo="true" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:index:hike:my-sister:best-friends:example:campfire">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="best-friends" alt=""/>
+      <caption webpage="best-friends" alt=""/>
+      <caption webpage="hike" alt=""/>
+      <caption webpage="hike" alt=""/>
+      <caption webpage="my-sister" alt=""/>
+      <caption webpage="my-sister" alt=""/>
+      <caption webpage="campfire" alt=""/>
+      <caption webpage="campfire" alt=""/>
+      <caption webpage="example" alt=""/>
+      <caption webpage="example" alt=""/>
+    </file>
+    <file name="gmail logo.png" crc="526774506" seo="true" ref="phone>index:phone>hike:phone>my-sister:phone>best-friends:phone>example:phone>campfire:index:hike:my-sister:best-friends:example:campfire">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="best-friends" alt=""/>
+      <caption webpage="best-friends" alt=""/>
+      <caption webpage="hike" alt=""/>
+      <caption webpage="hike" alt=""/>
+      <caption webpage="my-sister" alt=""/>
+      <caption webpage="my-sister" alt=""/>
+      <caption webpage="campfire" alt=""/>
+      <caption webpage="campfire" alt=""/>
+      <caption webpage="example" alt=""/>
+      <caption webpage="example" alt=""/>
+    </file>
+    <file name="campfire.jpg" crc="412744470" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hike-computer-version-u360-fr.jpg" crc="4294416931" ref="index"/>
+    <file name="my-sister-computer-version-u398-fr.jpg" crc="213785189" ref="index"/>
+    <file name="best friends-u416-fr.jpg" crc="394333273" ref="index"/>
+    <file name="example-u434-fr.jpg" crc="4124963905" ref="index"/>
+    <file name="campfire-u467-fr.jpg" crc="159262888" ref="index"/>
+    <file name="hike-computer-version.jpg" crc="4246866372" ref="hike">
+      <caption webpage="hike" alt=""/>
+    </file>
+    <file name="my-sister-computer-version.jpg" crc="4090068912" ref="my-sister">
+      <caption webpage="my-sister" alt=""/>
+    </file>
+    <file name="best friends.jpg" crc="4007656203" ref="best-friends">
+      <caption webpage="best-friends" alt=""/>
+    </file>
+    <file name="example.jpg" crc="4020981843" ref="example">
+      <caption webpage="example" alt=""/>
+    </file>
+    <file name="campfire-u2367-fr.jpg" crc="3773293139" ref="campfire"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="campfire.css" crc="3948741586" ref="tablet>campfire"/>
+      <file name="my-sister.css" crc="3948741586" ref="tablet>my-sister"/>
+      <file name="hike.css" crc="3948741586" ref="tablet>hike"/>
+      <file name="best-friends.css" crc="3948741586" ref="tablet>best-friends"/>
+      <file name="example.css" crc="3948741586" ref="tablet>example"/>
+      <file name="index.css" crc="4223852369" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="313645415" seo="true" mt="1524235860323" redirect="true"/>
+    <file name="hike.html" crc="513753714" seo="true" mt="1524235187640" redirect="false"/>
+    <file name="my-sister.html" crc="4211654871" seo="true" mt="1524235187701" redirect="false"/>
+    <file name="best-friends.html" crc="3807145467" seo="true" mt="1524235187752" redirect="false"/>
+    <file name="example.html" crc="300146321" seo="true" mt="1524235187781" redirect="false"/>
+    <file name="campfire.html" crc="395418877" seo="true" mt="1524235187802" redirect="false"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_story-master.css" crc="64175183" ref="phone>example:phone>hike:phone>my-sister:phone>campfire:phone>best-friends"/>
+      <file name="master_home-master.css" crc="4048525340" ref="phone>index"/>
+      <file name="index.css" crc="4274221252" ref="phone>index"/>
+      <file name="example.css" crc="3768315019" ref="phone>example"/>
+      <file name="hike.css" crc="3814733810" ref="phone>hike"/>
+      <file name="my-sister.css" crc="4294917953" ref="phone>my-sister"/>
+      <file name="campfire.css" crc="233386165" ref="phone>campfire"/>
+      <file name="best-friends.css" crc="4956516" ref="phone>best-friends"/>
+    </folder>
+    <file name="index.html" crc="177292509" seo="true" mt="1524235860323" redirect="true"/>
+    <file name="hike.html" crc="356746276" seo="true" mt="1524235860322" redirect="true"/>
+    <file name="my-sister.html" crc="83696319" seo="true" mt="1524235188404" redirect="true"/>
+    <file name="best-friends.html" crc="3879380926" seo="true" mt="1524235188467" redirect="true"/>
+    <file name="example.html" crc="4135833127" seo="true" mt="1524235188493" redirect="true"/>
+    <file name="campfire.html" crc="3905645532" seo="true" mt="1524235859749" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3970580731" seo="true" mt="1524235859755" redirect="true"/>
+  <file name="hike.html" crc="3945066796" seo="true" mt="1524235188573" redirect="true"/>
+  <file name="my-sister.html" crc="500440853" seo="true" mt="1524235188573" redirect="true"/>
+  <file name="best-friends.html" crc="414205264" seo="true" mt="1524235188573" redirect="true"/>
+  <file name="example.html" crc="452134650" seo="true" mt="1524235188573" redirect="true"/>
+  <file name="campfire.html" crc="3773614887" seo="true" mt="1524235859753" redirect="true"/>
+</manifest>
